@@ -13,6 +13,9 @@ You can now select the color defining attribute under the ```Legend``` tab.
 
 You can also change the color by clicking on the Author/Committer's name. 
 
+### Licensing ###
+
+http://www.cs.umd.edu/hcil/treemap/
 
 Software/Download/Licensing
 
